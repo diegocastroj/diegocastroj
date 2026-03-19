@@ -42,5 +42,5 @@ Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es u
 ### Contáctame
 <a href="www.linkedin.com/in/diego-castro-67735b200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diegocastro7515@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegocastro7515@gmail.com)
 
