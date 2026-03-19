@@ -16,18 +16,18 @@ Me apoyo en una fuerte base de lógica matemática y física para analizar, mode
 
 🤝 Siempre dispuesto a colaborar en equipo y aprender nuevas tecnologías.
 
-### Lenguajes Utilizados
-Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es una medida de GitHub sobre los lenguajes donde más he codificado en los repositorios.
+### Habilidades
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
 ### 📈 Estadísticas
-
+Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es una medida de GitHub sobre los lenguajes donde más he codificado en los repositorios.
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=diegocastroj&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
@@ -40,7 +40,11 @@ Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es u
 
 
 ### Contáctame
-<a href="www.linkedin.com/in/diego-castro-67735b200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diegocastro7515@gmail.com)
-
+<a href="https://www.linkedin.com/in/diego-castro-67735b200" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Diego Castro | LinkedIn" height="30" width="40" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:diegocastro7515@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Gmail.svg" alt="Diego Castro | Gmail" height="30" width="30" />
+</a>
