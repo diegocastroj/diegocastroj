@@ -1,11 +1,39 @@
-<h1 align="center"><b>Hola , soy Diego Castro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Diego Castro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
+**Estudiante de Ingeniería | Aspirante a Desarrollador Backend | Apasionado por la Tecnología**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+Soy un desarrollador en formación. Mi objetivo profesional es desarrollarme como **Desarrollador Backend**, creando soluciones escalables y funcionales. Mi enfoque principal es crear soluciones funcionales aplicando **buenas prácticas de programación**, **arquitecturas limpias** y una **documentación estructurada**. 
+
+Me apoyo en una fuerte base de lógica matemática y física para analizar, modelar y desglosar retos tecnológicos con orden y precisión.
+
+### 🚀 Sobre mí
+🎓 Estudiante de Ingeniería en la Universidad de San Carlos de Guatemala.
+
+🧠 Interesado por el desarrollo **Backend**, la estructuración de datos y la creación de sistemas robustos.
+
+⚙️ Actualmente enfocado en perfeccionar mi lógica de Programación y las buenas practicas.
+
+🤝 Siempre dispuesto a colaborar en equipo y aprender nuevas tecnologías.
+
+### Lenguajes Utilizados
+Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es una medida de GitHub sobre los lenguajes donde más he codificado en los repositorios.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+### 📈 Estadísticas
 <br />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=diegocastroj&layout=compact&theme=dark&bg_color=0A0A0A
+ alt="Abdo Achhoubi Top Languages"/>
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
-<br />
-<br />
-<br />
+
+### Contáctame
+<a href="www.linkedin.com/in/diego-castro-67735b200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diegocastro7515@gmail.com)
+
