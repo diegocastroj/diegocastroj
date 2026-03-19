@@ -27,10 +27,17 @@ Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es u
 
 
 ### 📈 Estadísticas
-<br />
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=diegocastroj&layout=compact&theme=dark&bg_color=0A0A0A
- alt="Abdo Achhoubi Top Languages"/>
-<br />
+
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=diegocastroj&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegocastroj&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegocastroj&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+
 
 ### Contáctame
 <a href="www.linkedin.com/in/diego-castro-67735b200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
